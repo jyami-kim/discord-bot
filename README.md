@@ -1,4 +1,4 @@
-discord-bot
+# discord-bot
 
 JDA 라이브러리를 활용하여 간단한 디스코드 봇을 구현한 레포지토리 입니다.
 
@@ -7,7 +7,7 @@ JDA 라이브러리를 활용하여 간단한 디스코드 봇을 구현한 레�
 
 
 
-Project1. 반속봇
+#### Project1. 반속봇
 
 https://humanbenchmark.com/
 
@@ -16,8 +16,8 @@ https://humanbenchmark.com/
 JDA 사용법 학습 및 간단한 봇을 만드는 용도였기 때문에 따로 데이터 베이스는 만들지 않았다.
 그냥 코드내에 List에 저장한다
 
+<img src="https://user-images.githubusercontent.com/26458200/108870549-8f0bdf00-763b-11eb-9f19-b4932461099c.png" alt="image" style="zoom:67%;" />
 
-
-
-
-
+<img src="https://user-images.githubusercontent.com/26458200/108871243-4b65a500-763c-11eb-8db9-83a4b8284711.png" alt="image" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/26458200/108871271-54ef0d00-763c-11eb-84ba-d7072a6aeff5.png" alt="image" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/26458200/108871285-58829400-763c-11eb-802f-fd60a9fadc33.png" alt="image" style="zoom:50%;" />
