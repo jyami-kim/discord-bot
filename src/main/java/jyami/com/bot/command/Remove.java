@@ -10,7 +10,7 @@ public class Remove implements Command {
     @Override
     public String executeMessage(Message message) {
         String user = getUser(message);
-        Integer time = getTime(message.getContentRaw());
+        Integer time = getTime(message.getContentDisplay());
         ReactionMap.remove(user, time);
         return "⛔️" + user + " : " + time + " 기록 삭제 완료";
     }

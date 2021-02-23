@@ -18,12 +18,12 @@ public class Help implements Command{
                 "`.react search {@mention}` : 멘션한 사람의 개인 결과 확인하기\n" +
                 "> .react search @쟈미 : @쟈미의 랭크 결과 확인가능\n" +
                 "\n" +
-                "`react rank {@mention} {ms} {image}` : 멘션한 사람 (없으면 본인)의 점수를 등록\n" +
+                "`.react rank {@mention} {ms} {image}` : 멘션한 사람 (없으면 본인)의 점수를 등록\n" +
                 "> .react rank 100ms : 말을한 사람의 점수가 100ms로 랭킹에 올라감  \n" +
                 "> .react rank @쟈미 200ms : @쟈미의 점수가 200ms로 랭킹에 올라감\n" +
                 "> .react rank 100ms {image} : 이미지와 함께 등록할 경우 이미지도 같이 올라감!\n" +
                 "\n" +
-                "`react remove {@mention} {ms}` : 멘션한 사람 (없으면 본인)의 점수를 삭제\n" +
+                "`.react remove {@mention} {ms}` : 멘션한 사람 (없으면 본인)의 점수를 삭제\n" +
                 "> .react rank 100ms : 말을한 사람의 점수중 100ms 인 것이 삭제\n" +
                 "> .react rank @쟈미 200ms : @쟈미의 점수중 200ms 인 것이 삭제";
    }

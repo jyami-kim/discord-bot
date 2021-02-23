@@ -14,7 +14,7 @@ public class Rank implements Command {
         Reaction reaction = Reaction.builder()
                 .image(getFileUrl(message))
                 .nickName(getUser(message))
-                .time(getTime(message.getContentRaw()))
+                .time(getTime(message.getContentDisplay()))
                 .build();
 
         ReactionMap.add(reaction);
